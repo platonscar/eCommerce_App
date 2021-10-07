@@ -10,11 +10,20 @@
     flex-wrap: nowrap;
     justify-content: space-evenly;
     margin-right: 30px;
-    cursor: pointer;;
+    cursor: pointer;
 }
 .list {
     list-style: none;
     display: flex;
     flex-direction: row;
     margin-right: 30px;
+}
+a {
+    color: #000000;
+    font-size: 20px;
+    text-decoration: underline 0.15em rgba(255, 255, 255, 0);
+    transition: text-decoration-color 300ms;
+}
+a:hover {
+    text-decoration-color: #F3BFD3;
 }
