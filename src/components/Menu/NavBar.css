@@ -1,0 +1,20 @@
+.navbar {
+    width: 85%;
+    margin: 40px 0;
+    display: flex;
+    justify-content: flex-end;
+}
+.nav_list{
+    display: flex;
+    align-items: center;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    margin-right: 30px;
+    cursor: pointer;;
+}
+.list {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    margin-right: 30px;
+}
