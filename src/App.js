@@ -1,12 +1,15 @@
 import './App.css';
-import NavBar from "./components/Menu/NavBar";
+import Header from './components/Header/Header';
+import ItemListContainer from './components/ItemListContainer.js/ItemListContainer';
 
 function App() {
   return (
-      <header className="App-header">
-        <NavBar/>
-        <h1>Date your Husbando!</h1>
-      </header>
+
+    <main>
+        <Header/>
+        <ItemListContainer/>
+    </main>
+        
   );
 }
 
