@@ -1,4 +1,19 @@
-.img_ul{
+.button_date{
+    border-radius: 10px;
+    width: 80px;
+    height: 22px;
+    background-color: #F3E4C2;
+    cursor: pointer;
+    box-shadow: 0 1px 0 1px rgba(0, 0, 0, 0.03);
+    outline: none;
+    border: none;
+    margin-top: 15px;
+}
+.button_date_div{
+    display: flex;
+    justify-content: center;
+}
+.img_ul-1, .img_ul-2{
     list-style: none;
     margin-top: 100px;
     display: flex;
@@ -7,4 +22,7 @@
 .img_li > p {
     text-align: center;
     font-size: 1.2rem;;
+}
+.p_dates {
+    margin-bottom: 20px;
 }
