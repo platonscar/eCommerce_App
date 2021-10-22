@@ -1,0 +1,39 @@
+ [
+    {
+        "name":"Yugyeom",
+        "group": "Got7",
+        "dates": 10,
+        "img":"assets/yugyeom.jpg"
+    },
+    {
+        "name":"Jinyoung",
+        "group": "Got7",
+        "dates": 10,
+        "img":"assets/jinyoung.jpg"
+    },
+    {
+        "name":"Jaebeom",
+        "group": "Got7",
+        "dates": 10,
+        "img":"assets/jb.jpg"
+    },
+    {
+        "name":"Younjae",
+        "group": "Got7",
+        "dates": 10,
+        "img":"assets/younjae.jpg"
+    },
+    {
+        "name":"Bambam",
+        "group": "Got7",
+        "dates": 10,
+        "img":"assets/bambam.jpg"
+    },
+    {
+        "name":"Mark",
+        "group": "Got7",
+        "dates": 10,
+        "img":"assets/mark.jpg"
+    }
+]
+export defa
