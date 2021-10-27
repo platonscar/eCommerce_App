@@ -12,7 +12,6 @@ const Item = ({ idol }) => {
     
     return (
         <section>
-
             <ul className="img_ul-1">
                 <li className="img_li">
                     <img src={idol.img} alt="Idoru" width="300px" height="450px" />
