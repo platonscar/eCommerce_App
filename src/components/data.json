@@ -1,39 +1,45 @@
+
  [
     {
+        "id": 1,
         "name":"Yugyeom",
         "group": "Got7",
         "dates": 10,
-        "img":"assets/yugyeom.jpg"
+        "img":"https://i.imgur.com/XNl2XxF.jpg"
     },
     {
+        "id":2,
         "name":"Jinyoung",
-        "group": "Got7",
+        "group": "Got7",  
         "dates": 10,
-        "img":"assets/jinyoung.jpg"
+        "img":"https://i.imgur.com/0oEaZQl.jpg"
     },
     {
+        "id": 3,
         "name":"Jaebeom",
         "group": "Got7",
         "dates": 10,
-        "img":"assets/jb.jpg"
+        "img":"https://i.imgur.com/YkwuAoK.jpg"
     },
     {
+        "id":4,
         "name":"Younjae",
         "group": "Got7",
         "dates": 10,
-        "img":"assets/younjae.jpg"
+        "img":"https://i.imgur.com/yrYxvL1.jpg"
     },
     {
+        "id":5,
         "name":"Bambam",
         "group": "Got7",
         "dates": 10,
-        "img":"assets/bambam.jpg"
+        "img":"https://i.imgur.com/v5xc0hf.jpg"
     },
     {
+        "id":6,
         "name":"Mark",
         "group": "Got7",
         "dates": 10,
-        "img":"assets/mark.jpg"
+        "img":"https://i.imgur.com/GUljqhT.jpg"
     }
 ]
-export defa
